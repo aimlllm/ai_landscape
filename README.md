@@ -1,4 +1,5 @@
 # AI Landscape
+```
 graph LR
     %% Main Categories
     AI[AI/ML Ecosystem] --> HW[Hardware Layer]
@@ -56,3 +57,4 @@ graph LR
 
     classDef layer fill:#f9f9f9,stroke:#333,stroke-width:1px;
     class AI,HW,INFRA,TOOL,FW,APP,SEC,BUS layer;
+```
