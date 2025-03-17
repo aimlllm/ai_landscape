@@ -1,5 +1,5 @@
 # AI Landscape
-```
+```mermaid
 graph LR
     %% Main Categories
     AI[AI/ML Ecosystem] --> HW[Hardware Layer]
